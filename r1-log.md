@@ -9,3 +9,6 @@ Today I completed all of the projects in Responsive Web Design @Freecodecamp.org
 
 ### R1D11
 Today I learned javascript functional programming @Freecodecamp.org. But could not finish them all.
+
+### R1D11
+Today I also learned javascript functional programming @Freecodecamp.org. But could not finish them all.
